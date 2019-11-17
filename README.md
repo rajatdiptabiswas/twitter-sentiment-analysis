@@ -150,7 +150,7 @@ See also the list of [contributors](https://github.com/rajatdiptabiswas/twitter-
 
 </br>
 
-## Acknowledgments
+## Acknowledgements
 
 * [NLTK documentation](https://www.nltk.org)
 * [TextBlob documentations](https://textblob.readthedocs.io/en/dev/quickstart.html#sentiment-analysis)
